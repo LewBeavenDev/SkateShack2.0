@@ -24,14 +24,28 @@ a {
     margin: 0;
 }
 
-h1, h2 {
-    font-weight: 300;
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 400;
     line-height: 1.2;
     margin: 10px 0;
 }
 
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
 p {
     margin: 10px 0;
+    font-weight: 300;
+    font-size: 18px;
 }
 
 img {
@@ -41,13 +55,8 @@ img {
 /* navbar */
 
 .navbar {
-    background-image: linear-gradient(#e3e3e3, #9c9a9a) ;
     color: black;
     height: 90px;
-}
-
-.navbar ul {
-    
 }
 
 .navbar li {
@@ -58,15 +67,15 @@ img {
     padding: 36px;
     margin: 0 5px;
     color: #333;
-    font-weight: 500;
-    font-size: 18px;
+    font-weight: 300;
+    font-size: 20px;
     letter-spacing: 2px;
 }
 
 .navbar a:hover {
     border-bottom: 2px black solid;
     box-shadow: 0px 1px 20px 2px;
-    background-image: linear-gradient(#e3e3e3, #777777);
+    background-image: linear-gradient(#e3e3e3 20%, #777777);
 }
 
 .navbar .flex {
@@ -107,6 +116,28 @@ img {
     
 }
 
+/* banner */
+
+.banner {
+    width: 100%;
+    text-align: center;
+}
+
+.banner h1 {
+    margin-top: 30px;
+}
+
+.banner h3 {
+    font-size: 25px;
+}
+
+.banner p {
+    margin-bottom: 20px;
+}
+
+/* reviews */
+
+
 
 /* utility */
 
@@ -143,4 +174,8 @@ img {
     border-radius: 15px;
     color: #e3e3e3;
     padding: 10px;
+}
+
+.gradient {
+    background-image: linear-gradient(#e3e3e3 85%, #6b6b6b);
 }
