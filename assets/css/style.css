@@ -68,9 +68,9 @@ img {
     width: auto;
 }
 
-/* welcome */
+/* landing */
 
-.welcome {
+.landing {
     background-image: url(../media/SS-CTA.jpg);
     height: 720px;
     background-size: cover;
@@ -80,14 +80,19 @@ img {
     overflow: hidden;
 }
 
-.welcome .container {
+.landing .container {
     height: 100%
 }
 
 
-.welcome .logo  {
+.landing .logo  {
     height: 540px;
-    width: auto;  
+    width: auto; 
+    background-color: rgba(0,0,0,0.5);
+    border-radius: 25px;
+    padding: 15px;
+    border: 2px white solid;
+    box-shadow: 10px 10px 10px 10px black; 
     
 }
 
