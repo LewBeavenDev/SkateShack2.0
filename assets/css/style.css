@@ -137,11 +137,28 @@ img {
 
 /* reviews */
 
+.reviews {
+    background-image: url(../media/indoor-skatepark.jpg);
+    height: min-content;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position: top;
+    overflow: hidden;
+}
+
+.reviews .container {
+    margin-top: 45px;
+    padding-top: 10px;
+    padding-bottom: 45px;
+}
+
 .reviews .card {
     text-align: center;
-    color: #e3e3e3;
+    color: white;
     width: 300px;
-    margin: 45px auto;
+    min-width: 300px;
+    background-color: rgba(0,0,0,0.75);
 
 }
 
