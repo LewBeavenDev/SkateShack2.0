@@ -86,10 +86,8 @@ img {
 
 
 .welcome .logo  {
-    height: 720px;
-    width: 720px;    
-    margin-left: auto;
-    margin-right: auto;
+    height: 540px;
+    width: auto;  
     
 }
 
