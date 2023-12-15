@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
 
 * {
     box-sizing: border-box;
@@ -19,7 +19,7 @@ ul {
 
 a {
     text-decoration: none;
-    color: #333;
+    color: black;
     padding: 0;
     margin: 0;
 }
@@ -41,26 +41,37 @@ img {
 /* navbar */
 
 .navbar {
-    background-color: #e3e3e3;
+    background-image: linear-gradient(#e3e3e3, #9c9a9a) ;
     color: black;
     height: 90px;
 }
 
 .navbar ul {
-    display: flex;
+    
+}
+
+.navbar li {
+    margin: auto;
 }
 
 .navbar a {
-    padding: 10px;
-    margin: 0 5px;    
+    padding: 36px;
+    margin: 0 5px;
+    color: #333;
+    font-weight: 500;
+    font-size: 18px;
+    letter-spacing: 2px;
 }
 
 .navbar a:hover {
     border-bottom: 2px black solid;
+    box-shadow: 0px 1px 20px 2px;
+    background-image: linear-gradient(#e3e3e3, #777777);
 }
 
 .navbar .flex {
     justify-content: space-between;
+    align-items: stretch;
 }
 
 .navbar .logo {
