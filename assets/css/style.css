@@ -145,6 +145,7 @@ img {
     background-position: center;
     background-position: top;
     overflow: hidden;
+    margin-bottom: 0px;
 }
 
 .reviews .container {
@@ -171,13 +172,26 @@ img {
 }
 
 .reviews .flex {
-    flex-direction: row;
     flex-wrap: wrap;
     gap: 20px;
-    justify-content: center;
+    justify-content: space-between;
     align-items: flex-start;
 }
 
+
+/* map */
+
+.map {
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.map h3 {
+    margin: 0;
+    padding: 10px;
+}
 
 
 /* utility */
