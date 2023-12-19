@@ -173,8 +173,8 @@ img {
 
 .reviews .flex {
     flex-wrap: wrap;
-    gap: 20px;
-    justify-content: space-between;
+    gap: 40px;
+    justify-content: center;
     align-items: flex-start;
 }
 
@@ -192,6 +192,32 @@ img {
     margin: 0;
     padding: 10px;
 }
+
+/* footer */
+
+
+.container footer {
+    text-align: center;
+    margin: 20px;
+    
+}
+
+footer a {
+    color: #333;
+    padding: 10px;
+    border-radius: 40%;
+    margin: 5px;
+    display: inline-block;
+}
+
+footer a:hover {
+    box-shadow: 0px 5px 5px 0px;
+}
+
+
+
+
+
 
 
 /* utility */
