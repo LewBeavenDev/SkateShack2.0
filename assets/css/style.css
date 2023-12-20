@@ -77,6 +77,7 @@ img {
     color: #e3e3e3;
     box-shadow: black 0px 1px 20px 2px;
     border-bottom: 2px black solid;
+    text-wrap: nowrap;
 }
 
 .navbar a:hover {
@@ -127,7 +128,8 @@ img {
 
 .banner {
     width: 100%;
-    text-align: center;
+    text-align: center; 
+    padding-bottom: 40px;   
 }
 
 .banner h1 {
@@ -182,22 +184,26 @@ img {
     flex-wrap: wrap;
     gap: 40px;
     justify-content: center;
-    align-items: flex-start;
+    align-items: center;
 }
 
 
 /* map */
 
 .map {
-    width: 100%;
-    background-color: black;
-    color: white;
-    text-align: center;
+    border: 0;
+}
+
+.map .banner {
+    margin: 0;
 }
 
 .map h3 {
+    text-align: center;
+    background-color: black;
+    color: white;
     margin: 0;
-    padding: 10px;
+    padding-bottom: 0px;
 }
 
 /* schedule */
@@ -212,13 +218,92 @@ img {
     background-position: top;
     overflow: hidden;
     margin-bottom: 0px;
-    color: #e3e3e3;
+    color: white;
     padding: 20px;
 }
 
 .schedule .card {
     margin: 20px;
+    min-width: 300px;
 }
+
+.schedule a {
+    color: white;
+}
+
+/* menu */
+
+.menu {
+    text-align: center;
+    background-image: url(../media/skateshackcafe.jpg);
+    height: min-content;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position: top;
+    overflow: hidden;
+    margin-bottom: 0px;
+    color: white;
+    padding: 20px;
+}
+
+.menu .banner {
+    background-color: black;
+    color: white;
+}
+
+.menu .banner h3 {
+    margin: 0;
+    padding: 10px;
+}
+
+.menu .container {
+    justify-content: center;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding-bottom: 20px;
+}
+
+.menu .container .card {
+    width: 300px;
+    min-width: 300px;
+    margin: 20px;
+    color: white;
+}
+
+.menu .card img {
+    height: 90px;
+    width: 90px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 1px white solid;
+    box-shadow: black 5px 5px 5px 5px;
+}
+
+
+/* booking */
+
+.booking {
+    background-image: url(../media/ss_booking_bg.jpg);
+    height: min-content;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position: top;
+    overflow: hidden;
+    text-align: center;
+    color: #e3e3e3;
+}
+
+.booking .card {
+    padding: 20px;
+    margin-top: 40px;
+    max-width: 600px;
+    min-width: 300px;
+    margin-bottom: 360px;
+}
+
 
 /* footer */
 
@@ -289,7 +374,7 @@ footer a:hover {
 }
 
 .card {
-    background-color: rgba(0,0,0,0.5);
+    background-color: rgba(0,0,0,0.75);
     border-radius: 25px;
     padding: 15px;
     border: 2px white solid;
