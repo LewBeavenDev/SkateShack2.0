@@ -77,7 +77,6 @@ img {
     color: #e3e3e3;
     box-shadow: black 0px 1px 20px 2px;
     border-bottom: 2px black solid;
-    text-wrap: nowrap;
 }
 
 .navbar a:hover {
