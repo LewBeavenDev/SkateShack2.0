@@ -106,6 +106,7 @@ img {
 
     .navbar .container  {
         padding: 0px;
+        justify-content: center;
     }
 
     .navbar img {
