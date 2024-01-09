@@ -69,7 +69,7 @@ Live link - [Skate Shack](https://)
     - The navigation buttons have a hover shadow effect on a desktop screen to give a tactile feel. 
     - The navigation bar is intuitive and will be natural to use for any frequent internet users. 
 
-    ![Navbar Image](../SkateShack2.0/assets/media/)
+    ![Navbar Image](../SkateShack2.0/assets/media/Readme-SS's/SS-Navbar.png "Skate Shack Nav Bar")
     <!--insert navbar image  -->
 
  - ### Landing Image
@@ -78,14 +78,14 @@ Live link - [Skate Shack](https://)
     - The image has the venue logo layered on top stating exactly where they are. 
     - The landing image feels layered and eye catching to the user. The logo layering also pushes the logo forward making it more memorable to the user. 
 
-    <!-- insert landing image -->
+    ![Landing Image](../SkateShack2.0/assets/media/Readme-SS's/SS-Landing-Img.png "Skate Shack Landing Image")<!-- insert landing image -->
 
  - ### Information Section
 
     - The information section welcomes the user to the page and gives a brief description of the site and the services available. 
     - The text also leads the user on to the reviews section to cement to the user the quality of the venue. 
 
-    <!-- Instert Information section image -->
+    ![Information Image](../SkateShack2.0/assets/media/Readme-SS's/SS-Information-Section.png "Skate Shack Information Section")<!-- Instert Information section image -->
 
  - ### Reviews Section 
 
@@ -94,20 +94,20 @@ Live link - [Skate Shack](https://)
     - Each review has a headshot of the person reviewing so the user feels comfortable that they are from real people. 
     - This section validates the quality of the venue and the services available to them. 
 
-    <!-- insert reviews image -->
+    ![Reviews Image](../SkateShack2.0/assets/media/Readme-SS's/SS-Reviews-Section.png "Skate Shack Reviews Section")<!-- insert reviews image -->
 
  - ### Map Section 
 
     - This section quickly shows the user the location of the venue with an easy to use embedded google map iFrame. 
 
-    <!-- insert maps image -->
+    ![Maps Image](../SkateShack2.0/assets/media/Readme-SS's/SS-Map-Section.png "Skate Shack Map Section")<!-- insert maps image -->
  
  - ### Footer Section 
 
     - This section allows the user to access social links for the website so they can keep up to date with events and changes to services provided.
     - Copyright for the website is also written here. 
     
-    <!-- insert image of footer  -->
+    ![Footer Image](../SkateShack2.0/assets/media/Readme-SS's/SS-Footer.png "Skate Shack Footer")<!-- insert image of footer  -->
 
  ## Schedule Page
 
@@ -115,7 +115,7 @@ Live link - [Skate Shack](https://)
 
     - This section gives the user a brief explanation of the information shown below to help the user understand the page. 
 
-    <!-- insert image of schedule landing section -->
+    ![Schedule Landing Image](../SkateShack2.0/assets/media/Readme-SS's/SS-Schedule-Landing.png "Skate Shack Schedule Landing")<!-- insert image of schedule landing section -->
 
  - ### Schedule section
 
@@ -125,7 +125,7 @@ Live link - [Skate Shack](https://)
     - The card design allows for easy reading of the text whilst also allowing a busy thematic picture for the background inkeeping with the overall urban feel of the page. 
     - Under each session section is a highlighted book button allowing the user to easily navigate to the booking section and book their wanted time. 
 
-    <!-- insert image of schedule sectionn -->
+    ![Schedule Image](../SkateShack2.0/assets/media/Readme-SS's/SS-Schedule-Schedule.png "Skate Shack Schedule Section")<!-- insert image of schedule sectionn -->
 
  ## Cafe Page
 
@@ -133,7 +133,7 @@ Live link - [Skate Shack](https://)
     
     - This section gives the user a brief explanation of the information shown below to help the user understand the page. 
 
-    <!-- insert image of cafe landing section -->
+    ![Cafe Landing Image](../SkateShack2.0/assets/media/Readme-SS's/SS-Cafe-Landing.png "Skate Shack Cafe Landing Image")<!-- insert image of cafe landing section -->
 
  - ### Menu Section
     
@@ -142,7 +142,7 @@ Live link - [Skate Shack](https://)
     - The Continued card design again allows for a vibrant background image whilst keeping the text easily readable. 
     - Each menu item has a small picture of the item, brief description and price to give as much information about the products available to the user. 
 
-    <!-- insert image of menu items section -->
+    ![Menu Image](../SkateShack2.0/assets/media/Readme-SS's/SS-Cafe-Menu.png "Skate Shack Cafe Menu")<!-- insert image of menu items section -->
 
 ## Booking Page
 
@@ -150,7 +150,7 @@ Live link - [Skate Shack](https://)
     
     - This section gives the user a brief explanation of the information shown below to help the user understand the page. 
 
-    <!-- insert image of booking landing section -->
+    ![Booking Landing Image](../SkateShack2.0/assets/media/Readme-SS's/SS-Booking-Landing.png "Skate Shack Bookings Landing Section")<!-- insert image of booking landing section -->
 
  - ### Booking Section
     
@@ -161,7 +161,7 @@ Live link - [Skate Shack](https://)
     - The submit button only works once all sections are filled in. This then sends back a form confirming the booking and information received. 
     - This form is also housed within the same card styling as the rest of the site allowing for the same vibrant backgreound image whilst keeping the text easily readable. 
 
-    <!-- insert image of booking section  -->
+    ![Booking Form Image](../SkateShack2.0/assets/media/Readme-SS's/SS-Booking-Form.png "Skate Shack Booking Form")<!-- insert image of booking section  -->
 
 ### Future implementations
 
