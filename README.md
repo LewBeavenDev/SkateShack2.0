@@ -69,6 +69,7 @@ Live link - [Skate Shack](https://)
     - The navigation buttons have a hover shadow effect on a desktop screen to give a tactile feel. 
     - The navigation bar is intuitive and will be natural to use for any frequent internet users. 
 
+    ![Navbar Image](../SkateShack2.0/assets/media/)
     <!--insert navbar image  -->
 
  - ### Landing Image
