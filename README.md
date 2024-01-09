@@ -48,7 +48,7 @@ Live link - [Skate Shack](https://lewbeavendev.github.io/SkateShack2.0/)
 
  ### Font 
 
- The font used for Skate Shack is Roboto. This is simple, sleek and easy to read reflecting the urban and busy feel to the rest of the page. 
+ The font used for Skate Shack is Roboto. This is simple, sleek and easy to read reflecting the urban and busy feel to the rest of the page. Sans Serif is used as a backup font. 
 
  ## Wireframes
 
