@@ -6,7 +6,7 @@ Skate Shack has information allowing users to find out opening times, event sche
 
 Live link - [Skate Shack](https://lewbeavendev.github.io/SkateShack2.0/)
 
-![Mockup Image](https://github.com/LewBeavenDev/SkateShack2.0/blob/main/assets/media/Readme-SS's/SS-Landing-Img.png?raw=true "Skate Shack Responsinator Image")<!-- insert mockup here -->
+![Mockup Image](https://github.com/LewBeavenDev/SkateShack2.0/blob/main/assets/media/Skateshack-Mockup.png?raw=true "Skate Shack Responsinator Image")<!-- insert mockup here -->
 
 ## Site Owner Goals
 - To provide information to the user about the services on offer at the venue.
