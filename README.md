@@ -170,7 +170,9 @@ Live link - [Skate Shack](https://lewbeavendev.github.io/SkateShack2.0/)
 - User uploaded picture gallery
 
 ## Testing 
-
+ 
+ ### Validator Testing
+ - 
 
  ## Technology Used
 
