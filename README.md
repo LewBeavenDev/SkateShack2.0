@@ -172,7 +172,13 @@ Live link - [Skate Shack](https://lewbeavendev.github.io/SkateShack2.0/)
 ## Testing 
  
  ### Validator Testing
- - 
+ - HTML
+   - No errors show up when running HTML through the official W3C Markup Validator
+      - [W3C Validator Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Flewbeavendev.github.io%2FSkateShack2.0%2F)
+
+- CSS
+   - No errors show up when running CSS through the official W3C CSS Validator
+      - [W3C Validator Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Flewbeavendev.github.io%2FSkateShack2.0%2F)
 
  ## Technology Used
 
