@@ -55,7 +55,7 @@ Live link - [Skate Shack](https://lewbeavendev.github.io/SkateShack2.0/)
  Wireframes for Skate Shack were built using Balsamiq          
 
 
-![Wireframe Image](https://github.com/LewBeavenDev/SkateShack2.0/blob/main/assets/media/Skateshack-Mockup.png?raw=true "Skate Shack Wireframe Image")<!-- Insert Wireframes -->
+![Wireframe Image](https://github.com/LewBeavenDev/SkateShack2.0/blob/main/assets/media/Readme-SS's/SS-Wireframes.png?raw=true "Skate Shack Wireframe Image")<!-- Insert Wireframes -->
 
 
  # Features 
