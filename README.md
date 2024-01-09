@@ -6,7 +6,7 @@ Skate Shack has information allowing users to find out opening times, event sche
 
 Live link - [Skate Shack](https://lewbeavendev.github.io/SkateShack2.0/)
 
-![Mockup Image](https://github.com/LewBeavenDev/SkateShack2.0/blob/main/assets/media/Skateshack-Mockup.png?raw=true "Skate Shack Responsinator Image")<!-- insert mockup here -->
+![Mockup Image](https://github.com/LewBeavenDev/SkateShack2.0/blob/main/assets/media/Skateshack-Mockup.png?raw=true "Skate Shack Responsinator Image")
 
 ## Site Owner Goals
 - To provide information to the user about the services on offer at the venue.
@@ -55,8 +55,7 @@ Live link - [Skate Shack](https://lewbeavendev.github.io/SkateShack2.0/)
  Wireframes for Skate Shack were built using Balsamiq          
 
 
-![Wireframe Image](https://github.com/LewBeavenDev/SkateShack2.0/blob/main/assets/media/Readme-SS's/SS-Wireframes.png?raw=true "Skate Shack Wireframe Image")<!-- Insert Wireframes -->
-
+![Wireframe Image](https://github.com/LewBeavenDev/SkateShack2.0/blob/main/assets/media/Readme-SS's/SS-Wireframes.png?raw=true "Skate Shack Wireframe Image")
 
  # Features 
 
@@ -70,7 +69,7 @@ Live link - [Skate Shack](https://lewbeavendev.github.io/SkateShack2.0/)
     - The navigation bar is intuitive and will be natural to use for any frequent internet users. 
 
     ![Navbar Image](https://github.com/LewBeavenDev/SkateShack2.0/blob/main/assets/media/Readme-SS's/SS-Navbar.png?raw=true "Skate Shack Nav Bar")
-    <!--insert navbar image  -->
+    
 
  - ### Landing Image
 
@@ -78,14 +77,14 @@ Live link - [Skate Shack](https://lewbeavendev.github.io/SkateShack2.0/)
     - The image has the venue logo layered on top stating exactly where they are. 
     - The landing image feels layered and eye catching to the user. The logo layering also pushes the logo forward making it more memorable to the user. 
 
-    ![Landing Image](https://github.com/LewBeavenDev/SkateShack2.0/blob/main/assets/media/Readme-SS's/SS-Landing-Img.png?raw=true "Skate Shack Landing Image")<!-- insert landing image -->
+    ![Landing Image](https://github.com/LewBeavenDev/SkateShack2.0/blob/main/assets/media/Readme-SS's/SS-Landing-Img.png?raw=true "Skate Shack Landing Image")
 
  - ### Information Section
 
     - The information section welcomes the user to the page and gives a brief description of the site and the services available. 
     - The text also leads the user on to the reviews section to cement to the user the quality of the venue. 
 
-    ![Information Image](https://github.com/LewBeavenDev/SkateShack2.0/blob/main/assets/media/Readme-SS's/SS-Information-Section.png?raw=true "Skate Shack Information Section")<!-- Instert Information section image -->
+    ![Information Image](https://github.com/LewBeavenDev/SkateShack2.0/blob/main/assets/media/Readme-SS's/SS-Information-Section.png?raw=true "Skate Shack Information Section")
 
  - ### Reviews Section 
 
@@ -94,20 +93,20 @@ Live link - [Skate Shack](https://lewbeavendev.github.io/SkateShack2.0/)
     - Each review has a headshot of the person reviewing so the user feels comfortable that they are from real people. 
     - This section validates the quality of the venue and the services available to them. 
 
-    ![Reviews Image](https://github.com/LewBeavenDev/SkateShack2.0/blob/main/assets/media/Readme-SS's/SS-Reviews-Section.png?raw=true "Skate Shack Reviews Section")<!-- insert reviews image -->
+    ![Reviews Image](https://github.com/LewBeavenDev/SkateShack2.0/blob/main/assets/media/Readme-SS's/SS-Reviews-Section.png?raw=true "Skate Shack Reviews Section")
 
  - ### Map Section 
 
     - This section quickly shows the user the location of the venue with an easy to use embedded google map iFrame. 
 
-    ![Maps Image](https://github.com/LewBeavenDev/SkateShack2.0/blob/main/assets/media/Readme-SS's/SS-Map-Section.png?raw=true "Skate Shack Map Section")<!-- insert maps image -->
+    ![Maps Image](https://github.com/LewBeavenDev/SkateShack2.0/blob/main/assets/media/Readme-SS's/SS-Map-Section.png?raw=true "Skate Shack Map Section")
  
  - ### Footer Section 
 
     - This section allows the user to access social links for the website so they can keep up to date with events and changes to services provided.
     - Copyright for the website is also written here. 
     
-    ![Footer Image](https://github.com/LewBeavenDev/SkateShack2.0/blob/main/assets/media/Readme-SS's/SS-Footer.png?raw=true "Skate Shack Footer")<!-- insert image of footer  -->
+    ![Footer Image](https://github.com/LewBeavenDev/SkateShack2.0/blob/main/assets/media/Readme-SS's/SS-Footer.png?raw=true "Skate Shack Footer")
 
  ## Schedule Page
 
@@ -115,7 +114,7 @@ Live link - [Skate Shack](https://lewbeavendev.github.io/SkateShack2.0/)
 
     - This section gives the user a brief explanation of the information shown below to help the user understand the page. 
 
-    ![Schedule Landing Image](https://github.com/LewBeavenDev/SkateShack2.0/blob/main/assets/media/Readme-SS's/SS-Schedule-Landing.png?raw=true "Skate Shack Schedule Landing")<!-- insert image of schedule landing section -->
+    ![Schedule Landing Image](https://github.com/LewBeavenDev/SkateShack2.0/blob/main/assets/media/Readme-SS's/SS-Schedule-Landing.png?raw=true "Skate Shack Schedule Landing")<!-- 
 
  - ### Schedule section
 
@@ -125,7 +124,7 @@ Live link - [Skate Shack](https://lewbeavendev.github.io/SkateShack2.0/)
     - The card design allows for easy reading of the text whilst also allowing a busy thematic picture for the background inkeeping with the overall urban feel of the page. 
     - Under each session section is a highlighted book button allowing the user to easily navigate to the booking section and book their wanted time. 
 
-    ![Schedule Image](https://github.com/LewBeavenDev/SkateShack2.0/blob/main/assets/media/Readme-SS's/SS-Schedule-Schedule.png?raw=true "Skate Shack Schedule Section")<!-- insert image of schedule sectionn -->
+    ![Schedule Image](https://github.com/LewBeavenDev/SkateShack2.0/blob/main/assets/media/Readme-SS's/SS-Schedule-Schedule.png?raw=true "Skate Shack Schedule Section")<!-- insert 
 
  ## Cafe Page
 
@@ -133,7 +132,7 @@ Live link - [Skate Shack](https://lewbeavendev.github.io/SkateShack2.0/)
     
     - This section gives the user a brief explanation of the information shown below to help the user understand the page. 
 
-    ![Cafe Landing Image](https://github.com/LewBeavenDev/SkateShack2.0/blob/main/assets/media/Readme-SS's/SS-Cafe-Landing.png?raw=true "Skate Shack Cafe Landing Image")<!-- insert image of cafe landing section -->
+    ![Cafe Landing Image](https://github.com/LewBeavenDev/SkateShack2.0/blob/main/assets/media/Readme-SS's/SS-Cafe-Landing.png?raw=true "Skate Shack Cafe Landing Image")<!-- 
 
  - ### Menu Section
     
@@ -142,7 +141,7 @@ Live link - [Skate Shack](https://lewbeavendev.github.io/SkateShack2.0/)
     - The Continued card design again allows for a vibrant background image whilst keeping the text easily readable. 
     - Each menu item has a small picture of the item, brief description and price to give as much information about the products available to the user. 
 
-    ![Menu Image](https://github.com/LewBeavenDev/SkateShack2.0/blob/main/assets/media/Readme-SS's/SS-Cafe-Menu.png?raw=true "Skate Shack Cafe Menu")<!-- insert image of menu items section -->
+    ![Menu Image](https://github.com/LewBeavenDev/SkateShack2.0/blob/main/assets/media/Readme-SS's/SS-Cafe-Menu.png?raw=true "Skate Shack Cafe Menu")
 
 ## Booking Page
 
@@ -150,7 +149,7 @@ Live link - [Skate Shack](https://lewbeavendev.github.io/SkateShack2.0/)
     
     - This section gives the user a brief explanation of the information shown below to help the user understand the page. 
 
-    ![Booking Landing Image](https://github.com/LewBeavenDev/SkateShack2.0/blob/main/assets/media/Readme-SS's/SS-Booking-Landing.png?raw=true "Skate Shack Bookings Landing Section")<!-- insert image of booking landing section -->
+    ![Booking Landing Image](https://github.com/LewBeavenDev/SkateShack2.0/blob/main/assets/media/Readme-SS's/SS-Booking-Landing.png?raw=true "Skate Shack Bookings Landing Section")
 
  - ### Booking Section
     
@@ -161,7 +160,7 @@ Live link - [Skate Shack](https://lewbeavendev.github.io/SkateShack2.0/)
     - The submit button only works once all sections are filled in. This then sends back a form confirming the booking and information received. 
     - This form is also housed within the same card styling as the rest of the site allowing for the same vibrant backgreound image whilst keeping the text easily readable. 
 
-    ![Booking Form Image](https://github.com/LewBeavenDev/SkateShack2.0/blob/main/assets/media/Readme-SS's/SS-Booking-Form.png?raw=true "Skate Shack Booking Form")<!-- insert image of booking section  -->
+    ![Booking Form Image](https://github.com/LewBeavenDev/SkateShack2.0/blob/main/assets/media/Readme-SS's/SS-Booking-Form.png?raw=true "Skate Shack Booking Form")
 
 ### Future implementations
 
