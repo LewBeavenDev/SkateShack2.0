@@ -200,6 +200,34 @@ Live link - [Skate Shack](https://lewbeavendev.github.io/SkateShack2.0/)
  - I also used the following websites to test responsiveness:
     - [Responsinator](http://www.responsinator.com/?url=https%3A%2F%2Flewbeavendev.github.io%2FSkateShack2.0%2F)
     - [Am I Responsive](https://ui.dev/amiresponsive?url=https://lewbeavendev.github.io/SkateShack2.0/)
+
+ ### Fixed Bugs
+
+ #### Menu Images Not Appearing 
+   
+   - During deployment of the prject to github pages I noticed when I opened the project on my phone that two of the menu images were not loading. 
+   - I figured it was a responsiveness issue. 
+   - After scouring dev tools I realised that one of the file locator names in the CSS had a capital letter so was stopping my project from finding the image
+   - I corrected this therefore fixing the bug
+
+
+ ### Known Bugs
+ - There are no known bugs
+
+ ## Deployment
+
+The project was deployed using GitHub pages. The steps to deploy using GitHub pages are:
+
+1. Go to the repository on GitHub.com
+2. Select 'Settings' near the top of the page.
+3. Select 'Pages' from the menu bar on the left of the page.
+4. Under 'Source' select the 'Branch' dropdown menu and select the main branch.
+5. Once selected, click the 'Save'.
+6. Deployment should be confirmed by a message on a green background saying "Your site is published at" followed by the web address.
+
+The live link can be found here - [Skate Shack](https://lewbeavendev.github.io/SkateShack2.0/) 
+
+
  ## Technology Used
 
  ### Languages
