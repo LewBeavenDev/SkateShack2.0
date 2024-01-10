@@ -176,10 +176,11 @@ Live link - [Skate Shack](https://lewbeavendev.github.io/SkateShack2.0/)
    - No errors show up when running HTML through the official W3C Markup Validator
       - [W3C Validator Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Flewbeavendev.github.io%2FSkateShack2.0%2F)
 
-- CSS
+ - CSS
    - No errors show up when running CSS through the official W3C CSS Validator
-      - [W3C Validator Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Flewbeavendev.github.io%2FSkateShack2.0%2F)
-
+      - [W3C Validator Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Flewbeavendev.github.io%2FSkateShack2.0%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+ 
+ - 
  ## Technology Used
 
  ### Languages

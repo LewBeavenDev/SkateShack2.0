@@ -412,6 +412,15 @@ footer a:hover {
     padding: 10px;
 }
 
+.card a {
+    background-color: rgb(255, 72, 0);
+    border: 1px #e3e3e3 solid;
+    margin: 10px;
+    border-radius: 15px;
+    color: #e3e3e3;
+    padding: 10px;
+}
+
 .gradient {
     background-image: linear-gradient(#e3e3e3 85%, #6b6b6b);
 }
