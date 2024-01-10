@@ -54,8 +54,13 @@ Live link - [Skate Shack](https://lewbeavendev.github.io/SkateShack2.0/)
 
  Wireframes for Skate Shack were built using Balsamiq          
 
+   ### Mobile Wireframes
+   ![Wireframe Image](https://github.com/LewBeavenDev/SkateShack2.0/blob/main/assets/media/Readme-SS's/SS-Wireframes.png?raw=true "Skate Shack Wireframe Image")   
 
-![Wireframe Image](https://github.com/LewBeavenDev/SkateShack2.0/blob/main/assets/media/Readme-SS's/SS-Wireframes.png?raw=true "Skate Shack Wireframe Image")
+
+
+   ### Desktop Wireframes
+   ![Wireframe Image](https://github.com/LewBeavenDev/SkateShack2.0/blob/main/assets/media/Readme-SS's/SS-Wireframes.png?raw=true "Skate Shack Wireframe Image")
 
  # Features 
 
@@ -174,11 +179,11 @@ Live link - [Skate Shack](https://lewbeavendev.github.io/SkateShack2.0/)
  ### Validator Testing
  - HTML
    - No errors show up when running HTML through the official W3C Markup Validator
-      - [W3C Validator Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Flewbeavendev.github.io%2FSkateShack2.0%2F)
+      - [W3C Validator Results](https://github.com/LewBeavenDev/SkateShack2.0/blob/main/assets/media/Readme-SS's/SS-HTML-Validator.png?raw=true)
 
  - CSS
    - No errors show up when running CSS through the official W3C CSS Validator
-      - [W3C Validator Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Flewbeavendev.github.io%2FSkateShack2.0%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+      - [W3C Validator Results](https://github.com/LewBeavenDev/SkateShack2.0/blob/main/assets/media/Readme-SS's/SS-CSS-Validator.png?raw=true)
  
  - 
  ## Technology Used
