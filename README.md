@@ -216,3 +216,9 @@ Live link - [Skate Shack](https://lewbeavendev.github.io/SkateShack2.0/)
  - [W3C](https://www.w3.org/) - Used to validate HTML and CSS code.
  - [Firefox Dev Tools](https://firefox-source-docs.mozilla.org/devtools-user/) - Used throughout development to allow easy visual understanding of styling and bug fixing.  
 
+ ### Media
+All images and videos were sourced from the below websites with thanks to the photographers.
+- [Pexels](https://www.pexels.com/)
+   
+    
+
