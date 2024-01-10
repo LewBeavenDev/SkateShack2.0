@@ -55,7 +55,7 @@ Live link - [Skate Shack](https://lewbeavendev.github.io/SkateShack2.0/)
  Wireframes for Skate Shack were built using Balsamiq          
 
    ### Mobile Wireframes
-   ![Wireframe Image](https://github.com/LewBeavenDev/SkateShack2.0/blob/main/assets/media/Readme-SS's/SS-Wireframes.png?raw=true "Skate Shack Wireframe Image")   
+   ![Mobile Wireframe Image](https://github.com/LewBeavenDev/SkateShack2.0/blob/main/assets/media/Readme-SS's/SS-Mobile-Wireframes.png?raw=true "Skate Shack Mobile Wireframe Image")   
 
 
 
@@ -185,7 +185,21 @@ Live link - [Skate Shack](https://lewbeavendev.github.io/SkateShack2.0/)
    - No errors show up when running CSS through the official W3C CSS Validator
       - [W3C Validator Results](https://github.com/LewBeavenDev/SkateShack2.0/blob/main/assets/media/Readme-SS's/SS-CSS-Validator.png?raw=true)
  
- - 
+ ### Form Testing
+ - The form has been tested to ensure it would not submit without the required input fields being filled in (full name and email address).
+
+ ### Links Testing
+ - All navigation links were tested manually to ensure the user is directed to the correct section of the website.
+ - Social Media links in the footer of each page were tested manually to ensure they direct the user to the correct page and open in a new tab. 
+
+ ### Browser Testing
+ - The Website was tested on Google Chrome, Firefox, Microsoft Edge, Safari browsers with no issues noted.
+    
+ ### Device Testing
+ - The website was viewed on a variety of devices such as Desktop, Laptop, iPhone 8, iPhoneX and iPad to ensure responsiveness on various screen sizes. The website performed as intended. The responsive design was also checked using Chrome developer tools across multiple devices with structural integrity holding for the various sizes.
+ - I also used the following websites to test responsiveness:
+    - [Responsinator](http://www.responsinator.com/?url=https%3A%2F%2Flewbeavendev.github.io%2FSkateShack2.0%2F)
+    - [Am I Responsive](https://ui.dev/amiresponsive?url=https://lewbeavendev.github.io/SkateShack2.0/)
  ## Technology Used
 
  ### Languages
